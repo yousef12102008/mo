@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 from faker import Faker
 from multiprocessing import Process
 import threading
-from bs4 import BeautifulSoup
+
 stopuser = {}
 token = '6487569861:AAGt9xCKSwN_bCuLXEDVtJhjr-bAEd89HVc'
 bot=telebot.TeleBot(token,parse_mode="HTML")
