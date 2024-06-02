@@ -6,11 +6,7 @@ import random
 import string
 from telebot import types
 from yu import *
-from reg import reg
-from datetime import datetime, timedelta
-from faker import Faker
-from multiprocessing import Process
-import threading
+
 
 stopuser = {}
 token = '6487569861:AAGt9xCKSwN_bCuLXEDVtJhjr-bAEd89HVc'
