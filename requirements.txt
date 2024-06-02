@@ -3,3 +3,7 @@ pyTelegramBotAPI
 user_agent
 Pyjwt
 requests_toolbelt
+multiprocessing
+faker
+datetime
+bs4
