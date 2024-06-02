@@ -1,5 +1,4 @@
 telebot==0.0.5
-os==0.0.1
 re==0.0.1
 json==0.0.1
 requests==2.26.0
@@ -7,6 +6,5 @@ time==0.0.1
 random==0.0.1
 string==0.0.1
 types==0.0.1
-yu==0.0.1
 reg==0.0.1
 datetime==0.0.1
